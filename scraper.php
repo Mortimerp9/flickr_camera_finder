@@ -5,7 +5,7 @@ require 'scraperwiki/simple_html_dom.php';
 
 $DEBUG = false;
 
-$init = count(scraperwiki::show_tables())==0;
+$init = true;//count(scraperwiki::show_tables())==0;
 
 $lastbrandmodelcrawl = scraperwiki::get_var('lastcrawl');
 
