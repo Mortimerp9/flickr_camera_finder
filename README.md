@@ -8,9 +8,6 @@ The scraper also extracts "yesterday" stats for each camera:
 * number of photos that were uploaded yesterday
 so that the evolution of the cameras can be plotted. Note that this doesn't do anything smart about the date as it stores the date of the crawl.
 
-You can view the results of this crawling here:
-* "Camera Maker statistics":https://views.scraperwiki.com/run/brand_distribution/
-
 Please keep in mind the following note by Flickr:
 “The graphs are only accurate to the extent that we can automatically detect the camera used to take the photo or shoot the video (about 2/3rds of the time). That is not usually possible with cameraphones, therefore they are under-represented.”
 
