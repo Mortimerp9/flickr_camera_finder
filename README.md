@@ -15,3 +15,12 @@ Please keep in mind the following note by Flickr:
 “The graphs are only accurate to the extent that we can automatically detect the camera used to take the photo or shoot the video (about 2/3rds of the time). That is not usually possible with cameraphones, therefore they are under-represented.”
 
 Anyone is welcomed to contribute, just ask me.
+
+Scraping history
+---------
+
+- ran on scraperwiki from 2011-10-01 to 2013-04-07 almost daily.
+- big hiatus when scraperwiki updated their API and went read-only.
+- running since 2015-06-04 on [morph.io](morph.io/Mortimerp9/flickr_camera_finder) mostly daily.
+
+You can find the data as an sqlite db or a csv file at https://morph.io/Mortimerp9/flickr_camera_finder
